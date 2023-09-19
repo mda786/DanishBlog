@@ -1,0 +1,14 @@
+.singlepost{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+@media  screen and (max-width:320px) {
+
+    .singlepost{
+        padding-right: 18px;
+    }
+    
+}
+
